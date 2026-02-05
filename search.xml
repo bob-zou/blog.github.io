@@ -3456,12 +3456,9 @@
       </tags>
   </entry>
   <entry>
-    <title>project-xxxxxx-ops-system</title>
-    <url>/2026/02/05/project-xxxxxx-ops-system/</url>
-    <content><![CDATA[<hr>
-<p>title: 【项目介绍】企业级运维管理平台<br>date: 2026-02-03 14:09:53<br>tags: [项目, CICD]<br>cover: <a href="https://cdn.jsdelivr.net/gh/bob-zou/blog.github.io@imgbed/covers/project-xxxxxx-ops-system.png">https://cdn.jsdelivr.net/gh/bob-zou/blog.github.io@imgbed/covers/project-xxxxxx-ops-system.png</a></p>
-<hr>
-<blockquote>
+    <title>【项目介绍】企业级运维管理平台</title>
+    <url>/2026/02/03/project-xxxxxx-ops-system/</url>
+    <content><![CDATA[<blockquote>
 <p>一站式运维管理平台，整合基础设施管理、部署发布、变更审批与配置管理，支撑百人规模研发团队的日常运维需求。</p>
 </blockquote>
 <h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ul>
@@ -4085,5 +4082,9 @@
 <hr>
 <p><em>本文档最后更新于 2026 年 2 月</em></p>
 ]]></content>
+      <tags>
+        <tag>项目</tag>
+        <tag>CICD</tag>
+      </tags>
   </entry>
 </search>
